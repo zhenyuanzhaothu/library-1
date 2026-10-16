@@ -95,9 +95,9 @@ Use the following parameter values:
 
 | Output | `diffusion_coefficient` |
 |---|---:|
-| Video 2 | `[insert value]` |
-| Video 3 | `[insert value]` |
-| Video 4 | `[insert value]` |
+| Video 2 | `[1/180]` |
+| Video 3 | `[10/180]` |
+| Video 4 | `[100/180]` |
 
 The generated TIFF frames can subsequently be assembled into a video using an image-processing or video-editing program.
 
