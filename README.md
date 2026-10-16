@@ -7,3 +7,5 @@ Required Python packages:
 
 Tested operating system:
 - Windows 11
+
+No non-standard hardware or GPU is required.
