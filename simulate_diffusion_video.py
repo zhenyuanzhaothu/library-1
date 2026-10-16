@@ -6,7 +6,7 @@ import os
 # Set particle parameters
 num_particles = 50  # Number of particles #
 timesteps = 5000  # Number of time steps #
-diffusion_coefficient = 1/18  # Diffusion coefficient set by Gaussian Model with 60 nm pixel size and 20 ms time step
+diffusion_coefficient = 1/18  # Diffusion coefficient 10^-14 m2s-1 set by Gaussian Model with 60 nm pixel size and 20 ms time step
 image_size = (128, 128)  # Image dimensions (pixels) #
 particle_intensity = 255  # Particle emission intensity #
 
