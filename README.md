@@ -1,4 +1,4 @@
-# Diffusion Microscopy Video Simulation
+# Diffusion Simulation Video 
 
 This repository contains Python code for generating simulated microscopy images of diffusing particles. The script produces grayscale TIFF image sequences that can be used to construct Videos 2–4 described in the manuscript.
 
@@ -80,8 +80,6 @@ tiff_frames/
 ```
 
 Each output image is 128 × 128 pixels.
-
-The expected runtime is approximately **[insert measured runtime]** on a computer with **[insert CPU, RAM, and operating system]**.
 
 ## 4. Reproduction Instructions
 
